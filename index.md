@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+## Welcome to 26Miler
 
-You can use the [editor on GitHub](https://github.com/26miler/26miler.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+- 👋 With my friend Alexa, I can get your strava activities just by using voice, e.g. 'Alexa ask 26miler to check my last activity'
+- 🌱 I’m currently learning more skills to read different stats using strava api
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+### Voice command list
 ```markdown
-Syntax highlighted code block
+- Alexa open 26miler
+- Alexa ask 26miler to check my last activity
+- Alexa ask 26miler to check this week's run distance
+- Alexa ask 26miler to check last week's run distance
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+# More commands would be added in future
 ```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/26miler/26miler.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
