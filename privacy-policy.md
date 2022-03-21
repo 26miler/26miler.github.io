@@ -1,6 +1,6 @@
 # Privacy Policy for Twenty Six Miler (26Miler) Alexa Skill
 
-This privacy policy describes how Twenty Six Miler ('Twenty Six Miler', '26Miler', 'us' or 'we') protects your (“you”, “the user”) privacy and your data. Before using any of our Alexa Skills (“our skills”), please read this policy and our Alexa Skills Terms of Use, as well as the Terms of Use(https://www.amazon.com/gp/help/customer/display.html?nodeId=201809740) and the Privacy Policies(https://www.amazon.com/privacy) by the Amazon Digital Services LLC (with its affiliates, “Amazon”).
+This privacy policy describes how Twenty Six Miler ('Twenty Six Miler', '26Miler', 'us' or 'we') protects your (“you”, “the user”) privacy and your data. Before using any of our Alexa Skills (“our skills”), please read this policy and our Alexa Skills Terms of Use(https://26miler.github.io/terms-of-use), as well as the Terms of Use(https://www.amazon.com/gp/help/customer/display.html?nodeId=201809740) and the Privacy Policies(https://www.amazon.com/privacy) by the Amazon Digital Services LLC (with its affiliates, “Amazon”).
 
 Regarding Amazon, “Alexa” means their Alexa Voice Service which includes third party services (like our skills) and other related Software.
 
