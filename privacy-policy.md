@@ -1,13 +1,13 @@
 # Privacy Policy for Twenty Six Miler (26Miler) Alexa Skill
 
-This privacy policy describes how Twenty Six Miler ('Twenty Six Miler', '26Miler', 'us' or 'we') protects your (“you”, “the user”) privacy and your data. Before using any of our Alexa Skills (“our skills”), please read this policy and our Alexa Skills Terms of Use(https://26miler.github.io/terms-of-use), as well as the Terms of Use(https://www.amazon.com/gp/help/customer/display.html?nodeId=201809740) and the Privacy Policies(https://www.amazon.com/privacy) by the Amazon Digital Services LLC (with its affiliates, “Amazon”).
+This privacy policy describes how Twenty Six Miler ('Twenty Six Miler', '26Miler', 'us' or 'we') protects your (“you”, “the user”) privacy and your data. Before using any of our Alexa Skills (“our skills”), please read this policy and our [Alexa Skills Terms of Use](https://26miler.github.io/terms-of-use), as well as the [Terms of Use](https://www.amazon.com/gp/help/customer/display.html?nodeId=201809740) and the [Privacy Policies](https://www.amazon.com/privacy) by the Amazon Digital Services LLC (with its affiliates, “Amazon”).
 
 Regarding Amazon, “Alexa” means their Alexa Voice Service which includes third party services (like our skills) and other related Software.
 
 If you use one of our skills you fully agree to this privacy policy.
 
 ## General
-- In order to use the Skill you will need an Alexa enabled device, like Amazon Echo. This skill requires an existing strava.com (https://www.strava.com/) account and during account linking, the user is redirected to https://www.strava.com website for authentication where user needs to provide the login credentials of strava.com account to link this skill.
+- In order to use the Skill you will need an Alexa enabled device, like Amazon Echo. This skill requires an existing [strava.com](https://www.strava.com/) account and during account linking, the user is redirected to [strava.com](https://www.strava.com) website for authentication where user needs to provide the login credentials of strava.com account to link this skill.
 - When you use our skills you have to talk to Alexa. This voice input is sent to Amazon and us where we use it to understand what our skill should do for you. This is absolutely necessary for our service to give you an appropriate answer.
 - As of now, twenty six miler (26miler) alexa skill only supports voice commands spoken in English (en-US locale) language and responds using the same language.
 
