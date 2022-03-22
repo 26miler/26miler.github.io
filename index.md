@@ -12,3 +12,9 @@
 
 # More commands would be added in future
 ```
+
+### Privacy Policy
+[Privacy Policy](https://26miler.github.io/privacy-policy)
+
+### Terms of use
+[Terms of use](https://26miler.github.io/terms-of-use)
