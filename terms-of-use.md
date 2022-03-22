@@ -1,12 +1,12 @@
 # Terms of Use for Twenty Six Miler (26Miler) Alexa Skill
 
 ## General
-This Terms of Use are an agreement between you ('the user') and Twenty Six Miler ('Twenty Six Miler', '26Miler', 'us' or 'we'). Before using any of our Alexa Skills (“our skills”), please read this agreement and our Alexa Skills Privacy Policy(https://26miler.github.io/privacy-policy) as well as the Alexa Terms of Use(https://www.amazon.com/gp/help/customer/display.html?nodeId=201809740) by the Amazon Digital Services LLC (with its affiliates, “Amazon”). Regarding Amazon, “Alexa” means their Alexa Voice Service which includes third party services (like our skills) and other related Software.
+This Terms of Use are an agreement between you ('the user') and Twenty Six Miler ('Twenty Six Miler', '26Miler', 'us' or 'we'). Before using any of our Alexa Skills (“our skills”), please read this agreement and our Alexa Skills [Privacy Policy](https://26miler.github.io/privacy-policy) as well as the Alexa [Terms of Use](https://www.amazon.com/gp/help/customer/display.html?nodeId=201809740) by the Amazon Digital Services LLC (with its affiliates, “Amazon”). Regarding Amazon, “Alexa” means their Alexa Voice Service which includes third party services (like our skills) and other related Software.
 
 If you use one of our skills you fully agree to this Terms of Use.
 
 ## Disclaimer
-Our skills or parts of it may discontinue at any time or might contain errors. You use our skills on your own complete responsibility. Any information should not be seen as an advice. You assume all risk for your use of the skill. all information is provided “as is”, without any representation as to fitness for any particular purpose and without warranty of any kind, express or implied. the information provided by the skill is for information purposes only, and does not constitute advice of any kind.
+Our skills or parts of it may discontinue at any time or might contain errors. You use our skills on your own complete responsibility. Any information should not be seen as an advice. You assume all risk for your use of the skill. all information is provided “as is”, without any representation as to fitness for any particular purpose and without warranty of any kind, express or implied. the information provided by the skill is for information purposes only, and does not constitute advice of any kind. We are not sponsored or endorsed by strava.com.
 
 ## Changes
 We may change, suspend, or discontinue the Skill, or any part of it, at any time without notice. We may amend any of this Agreement's terms at our sole discretion by posting the revised terms on our website. Your continued use of the Skill after the effective date of the revised Agreement constitutes acceptance of the terms.
