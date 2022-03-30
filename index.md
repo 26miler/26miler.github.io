@@ -3,6 +3,11 @@
 - 👋 I can get your strava activities just by using voice, e.g. 'Alexa ask 26miler to check my last activity'
 - 🌱 I’m currently learning more skills to read different stats using strava api
 
+### Steps to Activate 26Miler Skill
+- Search skills and games on your Alexa App with keywords, 26 miler or strava. From search results, pick 26 miler and enable the skill
+- Once enabled, you must complete the account linking. For that, tap 'settings button' --> tap 'link' --> sign in using your strava account credentials (refer to screenshot below)
+
+![Image description](assets/css/26Miler_screenshot.jpg)
 ### Voice command list
 ```markdown
 - Alexa open 26miler
